@@ -1,0 +1,81 @@
+[13-Nov-2020 17:58:29 Europe/Istanbul] PHP Warning:  mysqli_set_charset() expects exactly 2 parameters, 1 given in /home/u9842540/public_html/kelrot_egitim/config.php on line 11
+[13-Nov-2020 17:58:35 Europe/Istanbul] PHP Warning:  mysqli_set_charset() expects exactly 2 parameters, 1 given in /home/u9842540/public_html/kelrot_egitim/config.php on line 11
+[13-Nov-2020 17:59:02 Europe/Istanbul] PHP Warning:  mysqli_set_charset() expects exactly 2 parameters, 1 given in /home/u9842540/public_html/kelrot_egitim/config.php on line 11
+[13-Nov-2020 17:59:17 Europe/Istanbul] PHP Warning:  mysqli_set_charset() expects exactly 2 parameters, 1 given in /home/u9842540/public_html/kelrot_egitim/config.php on line 11
+[13-Nov-2020 17:59:43 Europe/Istanbul] PHP Warning:  mysqli_set_charset() expects exactly 2 parameters, 1 given in /home/u9842540/public_html/kelrot_egitim/config.php on line 11
+[13-Nov-2020 17:59:44 Europe/Istanbul] PHP Warning:  mysqli_set_charset() expects exactly 2 parameters, 1 given in /home/u9842540/public_html/kelrot_egitim/config.php on line 11
+[13-Nov-2020 17:59:54 Europe/Istanbul] PHP Warning:  mysqli_set_charset() expects exactly 2 parameters, 1 given in /home/u9842540/public_html/kelrot_egitim/config.php on line 11
+[13-Nov-2020 18:06:15 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 74
+[13-Nov-2020 18:06:18 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 74
+[13-Nov-2020 18:06:21 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 74
+[13-Nov-2020 18:06:22 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 74
+[13-Nov-2020 18:06:43 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 74
+[13-Nov-2020 18:06:48 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 74
+[13-Nov-2020 18:06:48 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 74
+[13-Nov-2020 18:06:54 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 74
+[13-Nov-2020 18:10:45 Europe/Istanbul] PHP Parse error:  syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 74
+[15-Nov-2020 20:51:18 Europe/Istanbul] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 18
+[15-Nov-2020 20:51:18 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 18
+[15-Nov-2020 20:51:18 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 18
+[15-Nov-2020 20:51:41 Europe/Istanbul] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 18
+[15-Nov-2020 20:51:41 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 18
+[15-Nov-2020 20:51:41 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 18
+[15-Nov-2020 20:51:53 Europe/Istanbul] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 18
+[15-Nov-2020 20:51:53 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 18
+[15-Nov-2020 20:51:53 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 18
+[15-Nov-2020 20:53:36 Europe/Istanbul] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 18
+[15-Nov-2020 20:53:36 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 18
+[15-Nov-2020 20:53:36 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 20
+[15-Nov-2020 20:53:37 Europe/Istanbul] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 18
+[15-Nov-2020 20:53:37 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 18
+[15-Nov-2020 20:53:37 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 20
+[15-Nov-2020 20:54:01 Europe/Istanbul] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 18
+[15-Nov-2020 20:54:01 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 18
+[15-Nov-2020 20:54:01 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 20
+[15-Nov-2020 20:54:47 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 18
+[15-Nov-2020 20:54:47 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 19
+[15-Nov-2020 20:54:58 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 18
+[15-Nov-2020 20:54:58 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 19
+[15-Nov-2020 20:55:01 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 18
+[15-Nov-2020 20:55:01 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 19
+[15-Nov-2020 20:55:04 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 18
+[15-Nov-2020 20:55:04 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 19
+[15-Nov-2020 20:55:23 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 18
+[15-Nov-2020 20:55:23 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 20
+[15-Nov-2020 20:55:36 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 18
+[15-Nov-2020 20:55:36 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 20
+[15-Nov-2020 20:56:21 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 18
+[15-Nov-2020 20:56:21 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 20
+[15-Nov-2020 20:56:57 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 18
+[15-Nov-2020 20:56:57 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 20
+[15-Nov-2020 20:58:50 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 20
+[15-Nov-2020 21:00:04 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 20
+[15-Nov-2020 21:00:05 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 20
+[15-Nov-2020 21:00:05 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 20
+[15-Nov-2020 21:00:16 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 20
+[15-Nov-2020 21:01:03 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 21
+[15-Nov-2020 21:01:53 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 20
+[15-Nov-2020 21:01:54 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 20
+[15-Nov-2020 21:05:17 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 20
+[15-Nov-2020 21:05:18 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 20
+[15-Nov-2020 21:07:29 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 19
+[15-Nov-2020 21:07:38 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 19
+[15-Nov-2020 21:07:41 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 19
+[15-Nov-2020 21:08:00 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 25
+[15-Nov-2020 21:08:33 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 25
+[15-Nov-2020 21:08:34 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 25
+[15-Nov-2020 21:08:35 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 25
+[15-Nov-2020 21:08:35 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 25
+[15-Nov-2020 21:08:46 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 25
+[15-Nov-2020 21:08:48 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 25
+[15-Nov-2020 21:08:51 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 25
+[15-Nov-2020 21:14:26 Europe/Istanbul] PHP Notice:  Undefined offset: 2 in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 24
+[15-Nov-2020 21:14:26 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 25
+[15-Nov-2020 21:18:10 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u9842540_kelrot_db'@'localhost' (using password: YES) in /home/u9842540/public_html/kelrot_egitim/config.php on line 10
+[15-Nov-2020 21:18:10 Europe/Istanbul] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/u9842540/public_html/kelrot_egitim/config.php on line 11
+[15-Nov-2020 21:19:37 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 28
+[15-Nov-2020 21:20:04 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 28
+[15-Nov-2020 21:20:05 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 29
+[15-Nov-2020 21:21:27 Europe/Istanbul] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 28
+[15-Nov-2020 21:22:59 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '' AND TASKNAME = '' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 25
+[15-Nov-2020 21:23:00 Europe/Istanbul] PHP Parse error:  syntax error, unexpected '' AND TASKNAME = '' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/u9842540/public_html/kelrot_egitim/tasks/task2.php on line 25
